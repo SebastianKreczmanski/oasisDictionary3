@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">SŁOWNIK OAZOWY</string>
+
+    <string name="settings">Ustawienia</string>
+    <string name="info">Informacje</string>
+    <string name="add_word">Dodaj swoje słowa</string>
+    <string name="favorites">Ulubione</string>
+
+    <string name="okienko_ustawien">OKIENKO USTAWIEŃ</string>
+    <string name="okienko_info">OKIENKO INFORMACJI</string>
+
+    <string name="wstep_naglowek">Słów kilka na temat słownika</string>
+    <string name="wstep_opis">Wstęp</string>
+    <string name="wstep_tresc">Słownik oazowy został opracowany przy okazji tłumaczenia materiałów oazowych na język angielski. Podawane tłumaczenia są przemyślane i konsultowane. W szczególności określenia związane bezpośrednio z naszą drogą formacyjną należy uznać za oficjalne i – o ile można tak to ująć – obowiązujące.\n Słownik zawiera terminy tzw. „oazowe” zarówno teologiczne, jak i praktyczne. Nie jest to jednak słownik zastępujący istniejące słowniki polsko-angielskie, ani nie jest to słownik zawierający wszystkie możliwe terminy teologiczne. Tych należy szukać w słownikach, a także w Biblii i dokumentach Kościoła. Jeżeli widzisz konieczność uwzględnienia jakiegoś słowa czy sformułowania, które nie zostało wpisane, proszę napisz o tym na adres A.Jankowiak(at)oaza.pl.</string>
+
+    <string name="pomysl_naglowek">Skąd pomysł na aplikację</string>
+    <string name="pomysl_opis">Pomysł</string>
+    <string name="pomysl_tresc">Nie zawsze jest czas na to, żeby sięgać do papierowej wersji słownika. Zresztą szukanie jednego zwrotu na kilku czy kilkunastu stronach tekstu zajmuje również pewien czas. Dlatego z pomocą przychodzi aplikacja, która jest w stanie szybko wyszukać potrzebne nam w danej chwili słówko. \n Mamy nadzieję, że appka się sprawdzi i okaże się pomocna podczas różnych oazowych przedsięwzięć. \nBędziemy też wdzięczni za zgłaszanie sugestii, uwag oraz pomysłów na rozwinięcie tego projektu.</string>
+
+    <string name="tworcy_naglowek">Twórcy aplikacji</string>
+    <string name="tworcy_opis">Autorzy</string>
+    <string name="tworcy_tresc">Agata Jankowiak - tłumaczenia, teksty \nEwa Korbut - teksty \nks. Sebastian Kreczmański - pomysł, teksty, programowanie, grafika</string>
+
+    <string name="kontakt_naglowek">Kontakt</string>
+    <string name="kontakt_opis">Kontakt</string>
+    <string name="kontakt_tresc">oasis.dictionary(at)oaza.pl</string>
+
+    <string name="dane_komorkowe">Pobieranie danych przez sieć komórkową</string>
+    <string name="dane_wifi">Pobieranie danych przez Wi-Fi</string>
+    <string name="use_englsh">Użyj języka angielskiego</string>
+
+    <string name="pol_eng_dict">Słownik poslko-angielski</string>
+    <string name="eng_pol_dict">Słownik angielsko-polski</string>
+
+    <string name="wyszukaj">Wyszukaj</string>
+
+    <string name="puste_favority">Nie masz jeszcze "ulubionych" słów</string>
+
+    <string name="dodaj_slowo">Dodaj słowo</string>
+    <string name="word">Słowo</string>
+    <string name="translation">Tłumaczenie</string>
+    <string name="add">Dodaj</string>
+    <string name="cancel">Anuluj</string>
+
+    <string name="no_own_words_message">Brak własnych słów</string>
+    <string name="no_favorites_message">Brak słów w ulubionych</string>
+
+    <string name="search_my_words">Uwzględnij dodane słowa do wyszukiwania</string>
+
+    <string name="no_internet_title">Brak połączenia sieciowego</string>
+    <string name="no_internet_message">Nie udało się połączyć z internetem. Sprawdź ustawienia aplikacji oraz swoje połączenie sieciowe</string>
+
+    <string name="ok">OK</string>
+
+    <string name="empty_database_title">Błąd bazy słówek!</string>
+    <string name="empty_database_message">Słownik jest pusty. Sprawdź ustawienia aplikacji i swoje połączenie internetowe</string>
+</resources>
